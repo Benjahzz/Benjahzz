@@ -7,7 +7,7 @@ Llevo 4 años construyendo aplicaciones web y móviles: frontend, backend, infra
 - 🌐 Portfolio: [bbastidas.me](https://www.bbastidas.me)
 - 💼 LinkedIn: [benjamín-bastidas](www.linkedin.com/in/benjamín-bastidas-8b70921a6)
 - ✉️ ben.ja07@live.cl
-- ☁️ Certificado [Google Associate Cloud Engineer](https://www.credential.net/83cfa2d97b2e459cb230d9ed33a9b128)
+- ☁️ Certificado [Google Associate Cloud Engineer](https://www.credly.com/badges/d7fba731-1e52-4460-8a1c-5334679a2153/public_url)
 
 ## 🛠️ Stack
 
