@@ -24,17 +24,3 @@ Llevo 4 años construyendo aplicaciones web y móviles de punta a punta: fronten
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **Topofertas** | Comparador de precios de productos en Chile con web scraping | Next.js, Fastify, Prisma, MySQL, Puppeteer, GCP |
-| **CAFRA Veterinaria** | App de escritorio para gestión de clínicas veterinarias | Tauri (Rust), React, TypeScript, SQLite |
-| **WatchToo** | Buscador de películas y series | Next.js, Prisma, MongoDB, Cloudinary |
-
-Más detalles en [bbastidas.me](https://www.bbastidas.me) 👈
-
----
-
-💬 Abierto a conversar sobre desarrollo web, cloud y nuevas oportunidades.
