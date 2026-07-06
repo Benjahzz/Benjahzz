@@ -2,7 +2,7 @@
 
 **Ingeniero de Software · Full-stack Developer & Cloud Engineer** desde el sur de Chile 🇨🇱
 
-Llevo 4 años construyendo aplicaciones web y móviles de punta a punta: frontend, backend, infraestructura y despliegue. Actualmente trabajo en Bel-Ray Chile desarrollando aplicaciones para la industria de lubricantes y minería, y soy el encargado de la infraestructura cloud de la empresa.
+Llevo 4 años construyendo aplicaciones web y móviles: frontend, backend, infraestructura y despliegue. Actualmente trabajo en Bel-Ray Chile desarrollando aplicaciones web y móviles para la industria de lubricantes y minería, y soy el encargado de la infraestructura cloud de la empresa.
 
 - 🌐 Portfolio: [bbastidas.me](https://www.bbastidas.me)
 - 💼 LinkedIn: [benjamin-bastidas](https://www.linkedin.com/in/benjamin-bastidas)
