@@ -5,7 +5,7 @@
 Llevo 4 años construyendo aplicaciones web y móviles: frontend, backend, infraestructura y despliegue. Actualmente trabajo en Bel-Ray Chile desarrollando aplicaciones web y móviles para la industria de lubricantes y minería, y soy el encargado de la infraestructura cloud de la empresa.
 
 - 🌐 Portfolio: [bbastidas.me](https://www.bbastidas.me)
-- 💼 LinkedIn: [benjamin-bastidas](https://www.linkedin.com/in/benjamin-bastidas)
+- 💼 LinkedIn: [benjamin-bastidas](www.linkedin.com/in/benjamín-bastidas-8b70921a6)
 - ✉️ ben.ja07@live.cl
 - ☁️ Certificado [Google Associate Cloud Engineer](https://www.credential.net/83cfa2d97b2e459cb230d9ed33a9b128)
 
